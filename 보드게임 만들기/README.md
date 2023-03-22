@@ -1,8 +1,10 @@
 
 
 
-# 2022-portfolio
+# 2023-보드게임 만들기
 
-<h3>보드게임 만들기</h3>
+<h3>공성전을 테마로 한 Road To Victory</h3>
 
-* <p>1. Git으로 Github에 파일올리기</p>
+* <p>관련 이미지와 파일들을 정리</p>
+* <p>세부 내용은 노션에 작성하여 노션의 주소를 남김</p>
+* https://glaze-layer-0f7.notion.site/66634a772e704d7abe58e99af93b9bff
